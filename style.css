@@ -1,0 +1,14 @@
+.big-divider{
+    padding-top: 2rem;
+}
+
+.small-divider{
+    padding-top: 15px;
+}
+
+.modify-width{
+    border-radius: 10px;
+    border: 2px solid;
+    width: 250px;
+}
+
